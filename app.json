@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "21.0.0",
+    "orientation": "portrait",
+    "name": "Flash Cards",
+    "description": "Flash cards for self quiz",
+    "slug": "flashcards",
+    "version": "1.0",
+    "icon": "https://maxcdn.icons8.com/Color/PNG/512/Sports/exercise-512.png",
+    "notification": {
+      "icon": "https://maxcdn.icons8.com/Color/PNG/512/Sports/exercise-512.png"
+    },
+    "ios": {
+     "bundleIdentifier": "org.flashcards.exp",
+    },
+    "android": {
+     "package": "org.flashcards.exp",
+    }
+  },
+}
